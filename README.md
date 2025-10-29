@@ -60,5 +60,4 @@ Input is validated for numbers; names can contain spaces.
 - Code is split into `record` (storage) and `ui` (interaction) modules for clarity.
 - Functions and data types are documented in headers; implementation favors readable, straightforward control flow.
 
-### License
-No license specified by the original project. Add one if you plan to distribute.
+
